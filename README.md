@@ -12,10 +12,8 @@ Naturally curious, genuine problem solver.
 ---
 
 - 💻 Studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
-- ⚙️ I use daily: `.c`, `.sol`, `.js`
-- 🌱 Learning all about `C` and `Solidity`
+- ⚙️ I use daily: `.c`, `.sol`, `.js`, `.rs`, `.cpp`
 - 📫 Reach me: [VanOmega#3736 at Discord](https://discordapp.com/users/347140501415395330)
-- ⚡️ Fun fact: Animal lover and Berserk addict
 
 ---
 
@@ -40,18 +38,3 @@ Naturally curious, genuine problem solver.
 ---
 
 > *Was finden wir jenseits dieses Horizontes?*
-
-<!--
-**Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
